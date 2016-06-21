@@ -1,6 +1,6 @@
 # STM32_EMON
 
-This repository contains the Eagle and KiCad files for my STM32 energy monitoring and display projects,  based on the Open Energy Monitor project's work
+This repository contains the Eagle files for my STM32 energy monitoring and display projects,  based on the Open Energy Monitor project's work
 
 NOTE. THIS IS A WORK IN PROGRESS, PLEASE CHECK MY DESIGNS BEFORE COMMITTING TO GETTING A PCB MADE!
 
